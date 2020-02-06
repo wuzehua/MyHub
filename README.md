@@ -13,7 +13,7 @@ MyHub is an Android client of github.
 ## Screenshots
 
 | ![avatar](images/Info.png) | ![avatar](images/Repo.png) |
-|:-:|:-:|:-:|
+|:-:|:-:|
 | Info | Repos |
 
 | ![avatar](images/Commits.png) | ![avatar](images/SearchRepo.png) |
