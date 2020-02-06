@@ -12,20 +12,9 @@ MyHub is an Android client of github.
 
 ## Screenshots
 
-<style>
-.img-wrap{
-border: 1px 
-}
-img{
-float: left;
-width: 33%;
-}
-</style>
-<div class="img-wrap">
-    <img src="images/Info.png">
-    <img src="images/Repo.png">
-    <img src="images/Commits.png">
-</div>
+| ![avatar](images/Info.png) | ![avatar](images/Repo.png) | ![avatar](images/Commits.png) |
+|:-:|:-:|:-:|
+| Info | Repos | Commits |
 
 ## Dependencies
 
